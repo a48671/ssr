@@ -1,0 +1,1 @@
+console.log(window.DATA); // тут должна вывестись строка DATA
